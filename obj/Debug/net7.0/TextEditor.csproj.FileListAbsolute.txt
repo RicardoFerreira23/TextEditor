@@ -1,0 +1,14 @@
+/home/ricardo/dev/TextEditor/bin/Debug/net7.0/TextEditor
+/home/ricardo/dev/TextEditor/bin/Debug/net7.0/TextEditor.deps.json
+/home/ricardo/dev/TextEditor/bin/Debug/net7.0/TextEditor.runtimeconfig.json
+/home/ricardo/dev/TextEditor/bin/Debug/net7.0/TextEditor.dll
+/home/ricardo/dev/TextEditor/bin/Debug/net7.0/TextEditor.pdb
+/home/ricardo/dev/TextEditor/obj/Debug/net7.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/ricardo/dev/TextEditor/obj/Debug/net7.0/TextEditor.AssemblyInfoInputs.cache
+/home/ricardo/dev/TextEditor/obj/Debug/net7.0/TextEditor.AssemblyInfo.cs
+/home/ricardo/dev/TextEditor/obj/Debug/net7.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/ricardo/dev/TextEditor/obj/Debug/net7.0/TextEditor.dll
+/home/ricardo/dev/TextEditor/obj/Debug/net7.0/refint/TextEditor.dll
+/home/ricardo/dev/TextEditor/obj/Debug/net7.0/TextEditor.pdb
+/home/ricardo/dev/TextEditor/obj/Debug/net7.0/TextEditor.genruntimeconfig.cache
+/home/ricardo/dev/TextEditor/obj/Debug/net7.0/ref/TextEditor.dll
